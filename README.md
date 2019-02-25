@@ -14,7 +14,7 @@ Recommended version: `1.12.2`
 
 ### Please support Mojang
 
-[Minecraft official website] (http://minecraft.net/)
+[Minecraft official website](http://minecraft.net/)
 
 ### Join us to build your Minecraft multiplayer online fun
 In the era of information explosion, we are not willing to become a passer of knowledge, accept the opinions of various players, exert the power of the community, participate in the **skyRolly Club QQ group&sup1;** get self-improvement.
@@ -62,9 +62,9 @@ Mail: 2477017738@qq.com
 *&sup2;Working time: 9AM - 6PM, Monday - Friday, GMT+8*
 ### Links
 
-- [skyRolly Visitor System] (http://skyrolly.club:666/)
-- [Server Dashboard] (http://skyrolly.club:19999/)
-- [Server Management Page] (http://skyrolly.club:5000/)
+- [skyRolly Visitor System](http://skyrolly.club:666/)
+- [Server Dashboard](http://skyrolly.club:19999/)
+- [Server Management Page](http://skyrolly.club:5000/)
 - [RollyWiki](http://skyrolly.club:666/mediawiki/)
 
 ------------
