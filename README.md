@@ -57,7 +57,7 @@ QQ: 2477017738
 
 Mail: 2477017738@qq.com
 
-*To ensure that you receive our response, please add admin@skyrolly.club to your address book in the email address you use. *
+*To ensure that you receive our response, please add admin@skyrolly.club to your address book in the email address you use.*
 
 *&sup2;Working time: 9AM - 6PM, Monday - Friday, GMT+8*
 ### Links
