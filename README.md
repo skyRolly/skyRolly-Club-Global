@@ -17,7 +17,7 @@ Recommended version: `1.12.2`
 [Minecraft official website] (http://minecraft.net/)
 
 ### Join us to build your Minecraft multiplayer online fun
-In the era of information explosion, we are not willing to become a passer of knowledge, accept the opinions of various players, exert the power of the community, participate in the **skyRolly Club QQ group&sup1; ** get self-improvement.
+In the era of information explosion, we are not willing to become a passer of knowledge, accept the opinions of various players, exert the power of the community, participate in the **skyRolly Club QQ group&sup1;** get self-improvement.
 
 *&sup1;skyRolly Club QQ Group: 947767703*
 
